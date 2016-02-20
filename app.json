@@ -10,19 +10,19 @@
   ],
   "env": {
     "ACCOUNT_SID": {
-      "description": "Your Twilio Account Sid",
+      "description": "ACdfcfef147cf24b67b6a4aa6d0d61a447",
       "required": true
     },
     "AUTH_TOKEN": {
-      "description": "Your Twilio Auth Token",
+      "description": "1d99d0121437c3393e41ede2614be2fe",
       "required": true
     },
     "APP_SID": {
-      "description": "Your TwiML App Sid that points to this web server",
+      "description": "AP9839c168603793ec26f7c601178ff9ba",
       "required": true
     },
     "CALLER_ID": {
-      "description": "Phone number verified with your Twilio Account",
+      "description": "+1 647-892-5443",
       "required": true
     }
   }
